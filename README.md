@@ -31,11 +31,13 @@
 # 📖 [Hello Rails React] <a name="about-project"></a>
 
 
-**[Hello Rails Back End]** is a React frontend to provide the frontend with greetings Api 
+**[Hello React Front End]** is a React frontend to provide the frontend with greetings Api 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
+
+-[Link to Rails app](https://github.com/harshitajain06/hello-rails-back-end.git)
 
 
 <details>
